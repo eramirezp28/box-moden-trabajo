@@ -1,0 +1,36 @@
+
+*{
+    box-sizing: border-box;
+    padding:0px;
+    margin: 0px;
+}
+
+body{
+    background: #C0C0C0;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+
+.caja1{
+    width: 600px;
+    height: 200px;
+    background:#008080;
+    color: white;
+    padding: 10px;
+    border: 2px solid white;
+    margin-bottom: 30px;
+}
+.caja1 p{
+    margin-top: 20px;
+}
+
+.caja2{
+    width: 600px;
+    height: 200px;
+    background: #454545;
+    color: white;
+    padding: 10px;
+    border: 2px solid white;
+    margin-top: 100px;
+}
